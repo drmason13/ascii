@@ -1,0 +1,12 @@
+[package]
+name = "ascii"
+version = "0.1.0"
+authors = ["drmason13 <drmason13@users.noreply.github.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+image = "0.23.12"
+anyhow = "1.0.37"
+termcolor = "1.1.2"
